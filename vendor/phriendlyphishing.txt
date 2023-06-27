@@ -1,0 +1,16 @@
+Source: https://help.phriendlyphishing.com/hc/en-gb/articles/360057029914-Generate-a-whitelist-test
+
+Sender IPs
+
+54.252.116.154
+54.153.200.195
+52.63.70.98
+52.64.99.134
+
+Sender Addresses
+
+support@phriendlyphishing.com
+postmaster@launch.phriendlyphishing.com
+launch.phriendlyphishing.com
+training.phriendlyphishing.com
+phriendlyphishing.com
