@@ -1,0 +1,18 @@
+Source: https://support.metacompliance.com/hc/en-gb/articles/4402426609809
+
+Source IPs
+
+54.240.90.56
+54.240.90.57
+76.223.183.154
+76.223.183.155
+54.240.80.102
+54.240.80.103
+
+Headers
+
+X-MyCompliance = notifications
+
+DKIM Signing domain
+
+amazonses.com
