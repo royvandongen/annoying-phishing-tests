@@ -1,0 +1,9 @@
+Header Based Filters
+
+ps.awareways.com
+X-PHISHTEST
+
+
+Keyword Based Filters
+
+awareways
