@@ -7,3 +7,5 @@ Please find the following information in this repo
 filters.txt (all headers, texts and other match criteria which you can filter on)
 
 source/$vendor$/ (example mails with their headers if available)
+
+Bonuscredits to the person which adds a default forwarding rule to their security officer with subject "Stop wasting my time"
