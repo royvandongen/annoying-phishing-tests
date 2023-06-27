@@ -1,0 +1,52 @@
+Source: https://learn.wizer-training.com/knowledge/wizer-ips-and-domains?hs_preview=BCQxZwBG-51163475972
+
+Wizer Phishing IPs:
+
+104.236.69.186
+104.197.155.117
+104.131.52.111
+167.71.100.208
+64.225.56.248
+104.131.18.139
+
+Wizer Phishing domains:
+
+ssuport.com
+supppot.com
+center-supports.com
+supoorts.com
+suporrt.com
+team-support.net
+supppot.net
+legal-user.com
+the-verification.com
+legals-team.com
+authenticatecenter.com
+ourlogin.co.uk
+mnminfo.com
+help-desc.com
+
+Wizer Phishing domains for the landing pages are only required for whitelisting in third-party email validation services (e.g. Proofpoint, Firewall, antiviruses, etc):
+
+authverificator.com
+get-amazon.net
+link-provider.com
+officeyour.com
+linkmyauth.com
+verificator.net
+authorisationservice.com
+authorizationservice.com
+e-authenticationservice.com
+auth-provider.com
+mylogin.ltd
+providerer.net
+nlmnxs.com
+nlmns.com
+authentification-provider.com
+authentification-providerer.com
+authentificationprovider.com
+antiantivirusapp.com
+applicationnewsletter.com
+certificationvalidation.com
+securitysender.com
+e-mailverification.com
