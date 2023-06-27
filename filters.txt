@@ -1,9 +1,6 @@
 Sender IP Based/Domain Filters
 
 ps.awareways.com
-45.154.232.28
-45.154.232.29
-207.154.247.120
 www.sendfiend.com
 sendfiend.com
 4qw.nl
@@ -58,15 +55,38 @@ laboratoryresults.net
 pt-portal.com
 No-reply@security-reminders.com
 no-reply@pii-protect.com
-54.252.116.154
-54.153.200.195
-52.63.70.98
-52.64.99.134
 support@phriendlyphishing.com
 postmaster@launch.phriendlyphishing.com
 launch.phriendlyphishing.com
 training.phriendlyphishing.com
 phriendlyphishing.com
+ssuport.com
+supppot.com
+center-supports.com
+supoorts.com
+suporrt.com
+team-support.net
+supppot.net
+legal-user.com
+the-verification.com
+legals-team.com
+authenticatecenter.com
+ourlogin.co.uk
+mnminfo.com
+help-desc.com
+45.154.232.28
+45.154.232.29
+207.154.247.120
+54.252.116.154
+54.153.200.195
+52.63.70.98
+52.64.99.134
+104.236.69.186
+104.197.155.117
+104.131.52.111
+167.71.100.208
+64.225.56.248
+104.131.18.139
 
 
 Header Based Filters
@@ -78,4 +98,25 @@ X-PHISHTEST
 Keyword Based Filters
 
 awareways
-
+authverificator.com
+get-amazon.net
+link-provider.com
+officeyour.com
+linkmyauth.com
+verificator.net
+authorisationservice.com
+authorizationservice.com
+e-authenticationservice.com
+auth-provider.com
+mylogin.ltd
+providerer.net
+nlmnxs.com
+nlmns.com
+authentification-provider.com
+authentification-providerer.com
+authentificationprovider.com
+antiantivirusapp.com
+applicationnewsletter.com
+certificationvalidation.com
+securitysender.com
+e-mailverification.com
