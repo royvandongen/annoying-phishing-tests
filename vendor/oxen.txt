@@ -1,0 +1,49 @@
+Source: https://oxen.tech/whitelisting-for-phishing-tests/
+
+(Welcome & Weekly Security Tip Emails)
+
+149.72.184.111
+168.245.40.98
+
+(Phishing Emails)
+
+168.245.68.173
+149.72.207.249
+168.245.34.162
+168.245.30.20
+18.209.119.19
+34.231.173.178
+54.209.51.230
+157.230.65.76
+
+Senders
+
+No-reply@security-reminders.com
+no-reply@pii-protect.com
+
+Used malicious domains
+
+pii-protect.com
+piiphish.com
+it-support.care
+cloud-service-care.com
+customer-portal.info
+efaxcustcare.com
+member-services.info
+your-shipment.com
+bankonlinesupport.com
+secureaccess.biz
+packagetrackingportal.com
+logineverification.com
+transferportal.tech
+Iogmein.com
+mlcrosoft.live
+llnkedinc.com
+chiro-health.net
+emr-portal.com
+package-locator.com
+amazon-delivers.com
+easy-payment.online
+pay-my-bills.online
+laboratoryresults.net
+pt-portal.com
