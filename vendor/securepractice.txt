@@ -1,0 +1,38 @@
+Source: https://securepractice.co/guides/whitelisting-office365
+
+Sender IP's and Domains
+
+45.154.232.28
+45.154.232.29
+207.154.247.120
+www.sendfiend.com
+
+Spam/Malicious domains:
+
+sendfiend.com
+4qw.nl
+mediapage.eu
+nefflix.it
+onebrive.com
+passordmyndighet.no
+sitestoragesharing.nl
+telecomservic.es
+webhostnet.net
+aflassian.com
+ctrypo.com
+feedbackhubs.com
+fiendsend.com
+formswebs.com
+helloprecious.eu
+hotsocl.com
+maxtax.ch
+metafaceinsta.com
+microsott.no
+mstf.it
+nytinnes.com
+passwordauthority.eu
+preciousforever.eu
+publiclottery.eu
+qnaii.com
+qxqc.org
+salest0rce.com
