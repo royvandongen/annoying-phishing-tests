@@ -58,6 +58,15 @@ laboratoryresults.net
 pt-portal.com
 No-reply@security-reminders.com
 no-reply@pii-protect.com
+54.252.116.154
+54.153.200.195
+52.63.70.98
+52.64.99.134
+support@phriendlyphishing.com
+postmaster@launch.phriendlyphishing.com
+launch.phriendlyphishing.com
+training.phriendlyphishing.com
+phriendlyphishing.com
 
 
 Header Based Filters
